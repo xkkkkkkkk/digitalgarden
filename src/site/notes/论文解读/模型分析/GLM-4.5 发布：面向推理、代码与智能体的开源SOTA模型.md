@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/论文解读/模型分析/GLM-4.5 发布：面向推理、代码与智能体的开源SOTA模型/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/论文解读/模型分析/GLM-4.5 发布：面向推理、代码与智能体的开源SOTA模型/","title":"GLM-4.5 发布：面向推理、代码与智能体的开源SOTA模型","tags":["gardenEntry"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/论文解读/算法解读/Agentic Reinforced Policy Optimization (ARPO)：   面向多轮工具调用的Agentic RL新范式/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/论文解读/算法解读/Agentic Reinforced Policy Optimization (ARPO)：   面向多轮工具调用的Agentic RL新范式/","title":"Agentic Reinforced Policy Optimization (ARPO)：   面向多轮工具调用的Agentic RL新范式","tags":["gardenEntry"]}
 ---
 
 

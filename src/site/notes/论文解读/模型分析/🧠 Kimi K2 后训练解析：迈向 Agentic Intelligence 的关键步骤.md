@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/论文解读/模型分析/🧠 Kimi K2 后训练解析：迈向 Agentic Intelligence 的关键步骤/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/论文解读/模型分析/🧠 Kimi K2 后训练解析：迈向 Agentic Intelligence 的关键步骤/","title":"Kimi K2 后训练解析：迈向 Agentic Intelligence 的关键步骤","tags":["gardenEntry"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/面试/为什么RL使GPT幻觉降低，却让R1幻觉增加？/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/面试/为什么RL使GPT幻觉降低，却让R1幻觉增加？/","title":"为什么RL使GPT幻觉降低，却让R1幻觉增加？","tags":["gardenEntry"]}
 ---
 
 

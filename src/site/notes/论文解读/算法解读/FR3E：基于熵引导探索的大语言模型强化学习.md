@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/论文解读/算法解读/FR3E：基于熵引导探索的大语言模型强化学习/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/论文解读/算法解读/FR3E：基于熵引导探索的大语言模型强化学习/","title":"FR3E：基于熵引导探索的大语言模型强化学习","tags":["gardenEntry"]}
 ---
 
 
